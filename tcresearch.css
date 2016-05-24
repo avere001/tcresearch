@@ -24,7 +24,7 @@
 .aspectlist > li.aspect:hover {
 	background:#DDD;
 	color:#000;
-	text-shadow:1px 0px 0px black;
+	text-shadow:1px 0 0 black;
 }
 #avail > li {
 	width:25%;
@@ -37,7 +37,7 @@
 }
 .aspect .desc {
 	overflow: hidden;
-	text-shadow:0px 0px 0px black;
+	text-shadow:0 0 0 black;
 	line-height: 1.4em;
 	font-size:small;
 }
